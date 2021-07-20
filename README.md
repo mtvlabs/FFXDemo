@@ -9,7 +9,7 @@ FFX refers to (F)ormat-Preserving (F)eistel-Based (X)-family of algorithms. In t
 This is an academic implementation intended to follow the draft specification while using Java and remaining compatible with Android. It is not optimized. The terminology, variable names, and methods employed here follow the original ffx-spec.pdf document rather than the later variations and proposals. Please refer to the program comments for additional information.
 
 For a detailed discussion of the FF1 algorithm of FFX, 
-<BR>refer to http://csrc.nist.gov/groups/ST/toolkit/BCM/documents/proposedmodes/ffx/ffx-spec.pdf.
+<BR>refer to https://csrc.nist.gov/csrc/media/projects/block-cipher-techniques/documents/bcm/proposed-modes/ffx/ffx-spec.pdf.
 
 For a detailed discussion of unbalanced Feistel networks, 
-<BR>refer to https://www.schneier.com/paper-unbalanced-feistel.pdf.
+<BR>refer to https://www.schneier.com/wp-content/uploads/2016/02/paper-unbalanced-feistel.pdf.
