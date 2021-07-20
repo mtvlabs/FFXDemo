@@ -5,9 +5,7 @@
    Other parameters are described in program comments. Refer to these documents for
    additional information:
    - The FFX Mode of Operation for Format-Preserving Encryption, 
-     http://csrc.nist.gov/groups/ST/toolkit/BCM/documents/proposedmodes/ffx/ffx-spec.pdf
-   - Addendum to, "The FFX Mode of Operation for Format-Preserving Encryption,"
-     http://csrc.nist.gov/groups/ST/toolkit/BCM/documents/proposedmodes/ffx/ffx-spec2.pdf
+     https://csrc.nist.gov/csrc/media/projects/block-cipher-techniques/documents/bcm/proposed-modes/ffx/ffx-spec.pdf
    - NIST Special Publication 800-38G,
      http://csrc.nist.gov/publications/drafts/800-38g/sp800_38g_draft.pdf
    - ANSI Draft Standard x9.124, https://x9.org/ (member companies only)
